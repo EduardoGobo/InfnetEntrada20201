@@ -15,3 +15,8 @@
 ### Colab
 
 * https://colab.research.google.com/notebooks/
+
+### Contatos:
+
+* https://t.me/ebertti
+* ezequiel.bertti@prof.infnet.edu.br
