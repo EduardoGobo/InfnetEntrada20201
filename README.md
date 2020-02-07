@@ -2,12 +2,12 @@
 
 ### Conteúdos compartilhados
 
-https://drive.google.com/drive/folders/1yRp92Z8HQ1hwCcUpyhBVswh3EbI7iBc0?usp=sharing
+* https://drive.google.com/drive/folders/1yRp92Z8HQ1hwCcUpyhBVswh3EbI7iBc0?usp=sharing
 
 ### Code.org
 
-Seção: **LCMDFL**
+* Seção: **LCMDFL**
 
 ### Blockly
 
-https://blockly.games/
+* https://blockly.games/
