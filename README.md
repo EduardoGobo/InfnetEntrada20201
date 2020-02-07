@@ -11,3 +11,7 @@
 ### Blockly
 
 * https://blockly.games/
+
+### Colab
+
+* https://colab.research.google.com/notebooks/
