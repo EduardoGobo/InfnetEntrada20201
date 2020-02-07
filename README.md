@@ -11,6 +11,7 @@
 ### Blockly
 
 * https://blockly.games/
+* https://blockly-demo.appspot.com/static/demos/code/index.html?lang=pt-br
 
 ### Colab
 
