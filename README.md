@@ -17,6 +17,11 @@
 
 * https://colab.research.google.com/notebooks/
 
+### Extras
+
+https://pyformat.info/
+
+
 ### Contatos:
 
 * https://t.me/ebertti
