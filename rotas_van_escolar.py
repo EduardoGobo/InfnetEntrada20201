@@ -1,5 +1,7 @@
 import requests
 
+ALUNOS = []
+
 def main():
     print("""
     Menu: rotas de van
